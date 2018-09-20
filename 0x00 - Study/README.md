@@ -7,8 +7,8 @@
 * [0x03 - Burp](#)
 * [0x04 - Linux](#)
 * [0x05 - Windows](#)
-* [0x06 - Hack The Box](#)
-* [0x07 - VulnHub](#)
+* [0x06 - Hack The Box](https://www.hackthebox.eu/)
+* [0x07 - VulnHub](https://www.vulnhub.com/)
 
 ## 0x01 - Python
 
